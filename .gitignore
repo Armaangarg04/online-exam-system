@@ -1,0 +1,21 @@
+# Maven
+target/
+*.class
+
+# Database (local only)
+*.db
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
