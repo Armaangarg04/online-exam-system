@@ -115,4 +115,4 @@ MIT License — feel free to use and modify this project.
 
 ## 👨‍💻 Author
 
-Made by **Armaangarg04**
+Made by **Armaan Garg,Ratna Khanna,Gehna Khanna**
